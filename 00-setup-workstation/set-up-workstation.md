@@ -32,4 +32,3 @@ The following [User Guide](http://www.ti.com/lit/ug/swru375d/swru375d.pdf) was u
 - To resolve the problem of strange input while debuging [Stackoverflow](https://stackoverflow.com/a/19824801)
 	- Create `.gdbinit` 
 	- Insert the line `set new-console on` in the `.gdbinit`
-	

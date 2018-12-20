@@ -34,6 +34,7 @@ to the default location.
 ## Technical stages
 
 1. [Setting up the workstation](00-setup-workstation/set-up-workstation.md)
+2. [Print CC3100 Information](01-print-cc3100-information/print-cc3100-information.md)
 
 ## Miscellaneous
 
