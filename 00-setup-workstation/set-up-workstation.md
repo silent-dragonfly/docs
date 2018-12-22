@@ -1,4 +1,4 @@
-# Inructions for Setting up a workstation
+# Instructions for Setting up a workstation
 The following [User Guide](http://www.ti.com/lit/ug/swru375d/swru375d.pdf) was used to setup both workstations with CC3100Boost + EMUBoost
 
 ## Common environment
@@ -16,7 +16,7 @@ The following [User Guide](http://www.ti.com/lit/ug/swru375d/swru375d.pdf) was u
 - Connect Boost+EMUBOST to PC / Check Device Manager
 ![](./recognizedCC3100.PNG)
 
-## Set up Eclipse and MinGW (Copilers)
+## Set up Eclipse and MinGW (Compilers)
 
 - Install jdk-8u191-windows-x64.exe
 - Install eclipse-inst-win64.exe for C/C++ developers
