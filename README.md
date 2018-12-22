@@ -30,6 +30,7 @@ to the default location.
 
 - Notes about [Physic layer](./IEEE802.11/phy.md) (PHY)
 - [Connection Initiation](./IEEE802.11/connection-initiation.md) - Scan, Authentication, Association
+- [Frame formats information](./IEEE802.11/frame-formats.md)
 
 ## Technical stages
 
