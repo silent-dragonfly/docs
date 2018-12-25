@@ -6,6 +6,11 @@
 - [WhoIs](https://who.is/) - track IP and/or domain names
 - [RIPE DB](https://apps.db.ripe.net/db-web-ui/#/query) - track IP address
 
+## Preparing a Kali linux Live USB bootable  
+
+- Create the Kali linux 2018 USB persistence  
+How to prepare the USB to run [Kali linux persistence mode](./kali-persistence/01_kali-persistence.md)
+
 ## Scanning Wi-Fi with Kali Linux
 
 [source article](http://www.inzoolee.com/capture-wifi-air-packets-kali-linux-wifi-adapter/)

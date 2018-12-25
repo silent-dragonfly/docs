@@ -36,6 +36,7 @@ to the default location.
 
 1. [Setting up the workstation](00-setup-workstation/set-up-workstation.md)
 2. [Print CC3100 Information](01-print-cc3100-information/print-cc3100-information.md)
+3. [Using devices](02-using-cc3100/using-cc3100-devices.md)
 
 ## Miscellaneous
 
