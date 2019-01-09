@@ -38,6 +38,9 @@ to the default location.
 1. [Setting up the workstation](00-setup-workstation/set-up-workstation.md)
 2. [Print CC3100 Information](01-print-cc3100-information/print-cc3100-information.md)
 3. [Using devices](02-using-cc3100/using-cc3100-devices.md)
+4. [Active scan test program](https://github.com/silent-dragonfly/cc3100-active-scan)
+5. [Passive scan test program](https://github.com/silent-dragonfly/cc3100-passive-scan)
+6. [Power measuring of Active and Passive scans](03-measuring/measuring.md)
 
 ## Miscellaneous
 
